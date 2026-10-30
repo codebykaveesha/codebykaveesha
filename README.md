@@ -1,5 +1,5 @@
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:00B4D8&height=220&section=header&text=Kaveesha%20Sathsara&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Engineering&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:00B4D8&height=220&section=header&text=Kaveesha%20Athsara&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Engineering&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- ===== TYPING EFFECT ===== -->
 <div align="center">
@@ -67,17 +67,18 @@ $ echo $MOTTO
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codebykaveesha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebykaveesha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=codebykaveesha&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebykaveesha&bg_color=0d1117&color=00ff9c&line=00b4d8&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/00ff9c/codebykaveesha" width="90%" />
 </p>
+
+<!-- OPTIONAL SNAKE: set up the workflow first, then delete this line and the closing line below
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codebykaveesha/codebykaveesha/output/snake-dark.svg" />
+</p>
+OPTIONAL SNAKE END -->
 
 ---
 
