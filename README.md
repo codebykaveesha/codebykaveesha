@@ -1,5 +1,5 @@
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:00B4D8&height=220&section=header&text=Kaveesha%20Athsara&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Engineering&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:00B4D8&height=220&section=header&text=Kaveesha%20Sathsara&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20Engineering&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- ===== TYPING EFFECT ===== -->
 <div align="center">
