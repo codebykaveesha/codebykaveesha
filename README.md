@@ -26,7 +26,8 @@ Role      : Cybersecurity & Network Engineering Student
 Education : BICT (Network Technology) · University of Sri Jayewardenepura
 Focus     : Ethical Hacking | Network Defense | SOC / Blue Team
 Studying  : TCP/IP, Routing & Switching, Linux, Network Security
-Goals     : CompTIA A+ · Security+ · CCNA · CCNP
+Goals     : Goals     : CompTIA A+ → Security+ → CCNA → CCNP
+Certified : None yet (working on it 💪)
 Home Lab  : Kali Linux · Cisco Packet Tracer
 Status    : 🟢 Learning every day
 
